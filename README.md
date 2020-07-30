@@ -1,7 +1,7 @@
 ![Intro](https://raw.githubusercontent.com/marcentusch/marcentusch/master/test.svg)
 
-#### I'm web developer who is passionate about frontend technologies, animations and SVG. Some technologies I enjoy working with include ReactJS, VueJS, GreenSock and I also enjoy creating simple minimal sites with (mostly) just HTML and CSS. 
 #### 💼 I am currently working for [Nemlig.com](https://www.nemlig.com/) as a full-stack web developer.
+#### I also volunteer as a teacher at [Coding Pirates Denmark](https://codingpirates.dk/)
 
 
 ### Find me around the web 🌎
