@@ -1,9 +1,7 @@
-![TEST](./test.svg)
-<img src="./test.svg">
+![Intro](./test.svg)
 
-## Hi I'm Marc 👋
-##### I'm web developer who is passionate about frontend technologies, animations and SVG. Some technologies I enjoy working with include ReactJS, VueJS, GreenSock and I also enjoy creating simple minimal sites with (mostly) just HTML and CSS. 
-##### 💼 I am currently working for [Nemlig.com](https://www.nemlig.com/) as a full-stack web developer.
+#### I'm web developer who is passionate about frontend technologies, animations and SVG. Some technologies I enjoy working with include ReactJS, VueJS, GreenSock and I also enjoy creating simple minimal sites with (mostly) just HTML and CSS. 
+#### 💼 I am currently working for [Nemlig.com](https://www.nemlig.com/) as a full-stack web developer.
 
 
 ### Find me around the web 🌎
