@@ -1,10 +1,10 @@
 ![Intro](https://raw.githubusercontent.com/marcentusch/marcentusch/master/test.svg)
 
-#### 💼 I am currently working for [Nemlig.com](https://www.nemlig.com/) as a full-stack web developer.
-#### 🧑‍🏫 I also volunteer as a teacher at [Coding Pirates Denmark](https://codingpirates.dk/)
+## 💼 I am currently working for [Nemlig.com](https://www.nemlig.com/) as a full-stack web developer.
+## 🧑‍🏫 I also volunteer as a teacher at [Coding Pirates Denmark](https://codingpirates.dk/)
 
 
-### Find me around the web 🌎
+# Find me around the web 🌎
 * On [LinkedIn](https://www.linkedin.com/in/marc-obel-857847119/)
 * Tinkering with JS and CSS on [CodePen](https://codepen.io/marcentusch) 
 * Sharing interesting news/articles about frontend development on [Twitter](https://twitter.com/marc_obel)
