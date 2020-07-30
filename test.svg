@@ -1,5 +1,16 @@
 <svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 548">
   <style>
+    #jet-cat-v2 {
+  animation: test 1s ease infinite;
+}
+@keyframes test {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
   </style>
   <g id="Group 1">
     <path id="Rectangle 15" fill="#FEF6E4" d="M0 0h375v542H0z"/>
@@ -7,7 +18,7 @@
     <path id="cloud1" d="M126 266h123.5" stroke="#F582AE" stroke-opacity=".5" stroke-width="19" stroke-linecap="round"/>
     <path id="cloud3" d="M205 21h123.5" stroke="#F582AE" stroke-opacity=".5" stroke-width="19" stroke-linecap="round"/>
     <path id="cloud2" d="M229.5 177h158" stroke="#F582AE" stroke-opacity=".5" stroke-width="19" stroke-linecap="round"/>
-    <g style="animation:test 1s ease infinite">
+    <g id="jet-cat-v2">
       <g id="rainbow">
         <path id="Rectangle 3" fill="#6FCF97" d="M319.6 113.7h5.7V262h-5.7z"/>
         <path id="Rectangle 4" fill="#EB5757" d="M325.4 113.7h5.7V262h-5.7z"/>
