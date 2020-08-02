@@ -4,7 +4,7 @@
 * On [LinkedIn](https://www.linkedin.com/in/marc-obel-857847119/)
 * Tinkering with JS and CSS on [CodePen](https://codepen.io/marcentusch) 
 * Sharing interesting news/articles about frontend development on [Twitter](https://twitter.com/marc_obel)
-* My personal website/portfolio/CV (Soon to be added)
+* [My personal website](https://marcobel.com/)
 
 ### 💼 I am currently working for [Nemlig.com](https://www.nemlig.com/) as a full-stack web developer.
 ### 🧑‍🏫 I also volunteer as a teacher at [Coding Pirates Denmark](https://codingpirates.dk/)
