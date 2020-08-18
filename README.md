@@ -1,4 +1,3 @@
-![Intro](https://raw.githubusercontent.com/marcentusch/marcentusch/master/test.svg)
 
 ### 💼 I am currently working for [Nemlig.com](https://www.nemlig.com/) as a full-stack web developer.
 ### 🧑‍🏫 I also volunteer as a teacher at [Coding Pirates Denmark](https://codingpirates.dk/)
