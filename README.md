@@ -1,5 +1,5 @@
 
-### 💼 I am currently working for [Nemlig.com](https://www.nemlig.com/) as a full-stack web developer.
+### 💼 I am currently working for Ajukreizi as a frontend developer.
 ### 🧑‍🏫 I also volunteer as a teacher at [Coding Pirates Denmark](https://codingpirates.dk/)
 
 # Find me around the web 🌎
