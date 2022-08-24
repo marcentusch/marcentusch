@@ -1,5 +1,5 @@
 
-### 💼 I am currently working for Plantjammer as a frontend developer.
+### 💼 I am currently working for Famly.co as a backend developer.
 ### 🧑‍🏫 I also volunteer as a teacher at [Coding Pirates Denmark](https://codingpirates.dk/)
 
 
